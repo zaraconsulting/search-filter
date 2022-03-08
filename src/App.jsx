@@ -65,7 +65,7 @@ export default function App()
 						<TextField
 							fullWidth
 							id="outlined-basic"
-							label="Outlined"
+							label="Type Pokemon Name Here"
 							variant="outlined"
 							size='small'
 							inputRef={ searchValue }
